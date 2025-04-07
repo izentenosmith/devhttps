@@ -1,0 +1,13 @@
+{
+  "name": "devhttps",
+  "version": "1.0.0",
+  "description": "Generate a private key and self-signed certificate using only Node.js core modules",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["https", "certificate", "nodejs", "ssl", "local", "self-signed"],
+  "author": "izentenosmith",
+  "license": "MIT"
+}
